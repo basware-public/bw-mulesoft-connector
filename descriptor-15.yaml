@@ -12,7 +12,7 @@ connectorDescription: |
 connectorGav:
   groupId: com.mulesoft.connectors
   artifactId: mule4-Basware-connector
-  version: 1.0.0
+  version: 1.0.1
 
 baseUri:
   value: https://api.basware.com
